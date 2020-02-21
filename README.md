@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "pink-and-rose-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Pink and Rose Theme
+A light pink and rose theme for Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Installation
+To install this theme, you need to download the latest [.vsix](https://github.com/xlink9x/vscode-pink-and-rose-theme/releases). Then run 
+``` 
+code --install-extension pink-and-rose-theme-1.0.0.vsix
+```
+from command line.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Credits
+This theme is heavily based on faustocintras [Longsight Light Theme](https://github.com/faustocintra/vscode-longsight-light-theme)
